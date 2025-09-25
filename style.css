@@ -140,6 +140,7 @@ body {
 .projects {
   text-align: center;
   margin-top: 626px; /* avstand fra forrige seksjon */
+
 }
 
 .projects h2 {
@@ -148,6 +149,7 @@ body {
   font-weight: 400;
   color: #000;
   margin-bottom: 50px; 
+  
 }
 
 /* Grid de imagenes */
